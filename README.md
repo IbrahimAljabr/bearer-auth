@@ -2,11 +2,9 @@
 
 Class401-Lab03
 
-[Heroku](https://github.com/IbrahimAljabr/basic-auth/actions)
+[Heroku](https://bearer-authorization-7.herokuapp.com)
 
-[Action](https://github.com/IbrahimAljabr/basic-auth/actions)
-
-[Pull Request](https://github.com/IbrahimAljabr/basic-auth/pulls/2)
+[Pull Request](https://github.com/IbrahimAljabr/bearer-auth/pull/1)
 
 **UML Diagram**
 
